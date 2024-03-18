@@ -3,3 +3,5 @@ Yanadawa Resolusi 2024
   - Mengembangkan kemampuan dalam Front-end development. Terutama dalam penggunaan Bootstrap
   - Masuk ke dalam dunia Back-end dengan materi yang telah disediakan dan jadwal yang sudah terorganisir dengan rapi
   - Mengembangkan kemampuan Back-end development agar dapat digunakan untuk menjadi Full-stack developer
+  - Membuat portfolio dengan menunjukkan project-project yang sudah dikerjakan
+  - Bekerja menjadi Web Developer Junior dimulai dari bulan September 2024
