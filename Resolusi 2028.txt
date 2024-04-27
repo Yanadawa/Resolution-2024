@@ -1,4 +1,6 @@
 Resolusi Yanadawa 2028
   - Jalan-jalan ke Bali bersama Aisyah
   - Starting new single project using another language (PHP, SQL, JS, Py)
+  - Belajar Cyber Security lanjutan (Advanced level Cyber Security)
+
   * New Challanges Added Soon
