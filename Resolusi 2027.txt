@@ -1,10 +1,10 @@
 Rencana Yanadawa 2027
   - Mulai belajar Cyber Security, at least persiapan pengetahuan umumnya dulu
   - Umroh bersama Aisyah Anandari
-  - Web Dev Intermediate to Senior. Upgrade knowledges and omprove skills of backend and cyber security systems
-  - Projects summary and analys (single big project)
+  - Web Dev Intermediate to Senior. Upgrade knowledges and improve skills of backend and cyber security systems
+  - Projects summary and analyst (single big project)
   - Learning new Language (R, PHP, SQL {for data analytics})
   - Dive deeper about Python
 
 * Rencana cadangan kuliah
-* Ambil yang 2 tahun di Laban
+* Usahakan 2 tahun selesai
